@@ -4,7 +4,7 @@
 # 4.	Deberá realizar una función que permita buscar un dato en la lista.
 
 
-for i in range(2):
+for i in range(5):
 
     class Resgistrar:
         def __init__(self, identificacion, nombre , salario) :
